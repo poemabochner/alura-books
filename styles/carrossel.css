@@ -67,3 +67,11 @@ width: 100%;
     font-weight: 700;
     text-decoration: none;
 }
+
+.descricao {
+    padding: 0.5em;
+}
+
+.descricao__estrelas{
+    padding-bottom: 0.5em;
+}
